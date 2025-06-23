@@ -30,10 +30,10 @@
   <a href="https://github.com/ivobraatz" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2E3440" alt="GitHub">
   </a>
-  <a href="https://wa.me/5511999999999" target="_blank">
+  <a href="https://wa.me/5547991403388" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=2E3440" alt="WhatsApp">
   </a>
-  <a href="mailto:ivo@outlook.com" target="_blank">
+  <a href="mailto:braatzivo@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&labelColor=2E3440" alt="Outlook">
   </a>
   <a href="https://ivobraatz.github.io" target="_blank">
@@ -246,10 +246,10 @@ const funFacts = {
   <a href="https://www.linkedin.com/in/ivobraatz/" target="_blank">
     <img src="https://img.shields.io/badge/💼_LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2E3440" alt="LinkedIn">
   </a>
-  <a href="mailto:ivo@outlook.com" target="_blank">
+  <a href="mailto:braatzivo@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/📧_Email-Contato-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&labelColor=2E3440" alt="Email">
   </a>
-  <a href="https://wa.me/5511999999999" target="_blank">
+  <a href="https://wa.me/5547991403388" target="_blank">
     <img src="https://img.shields.io/badge/💬_WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=2E3440" alt="WhatsApp">
   </a>
 </div>
